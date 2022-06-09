@@ -1,0 +1,10 @@
+.main-header {
+    width: 1110px;
+    height: 88px;
+
+    background: #ffffff;
+
+    display: flex;
+
+    justify-content: space-around;
+}

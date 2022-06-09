@@ -65,7 +65,10 @@
     height: 75px;
 }
 
+
 .sldier__title {
+    margin-left: -15px;
+
     font-size: 20px;
 
     margin-bottom: 15px;
