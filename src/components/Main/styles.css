@@ -1,0 +1,31 @@
+.main {
+    display: flex;
+
+    min-height: calc(100vh - 80px);
+
+    overflow-x: hidden;
+}
+
+.main__content {
+
+}
+
+.main__content div[data-marker="map-full/side-block"] {
+    display: none;
+}
+
+.main__content #app {
+    display: none;
+}
+
+.main__block-content {
+
+}
+
+.main__iframe {
+    overflow: hidden;
+}
+
+.main__iframe > * {
+    margin-top: -175px;
+}
